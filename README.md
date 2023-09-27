@@ -1,4 +1,4 @@
-### Hello! | ¡Hola! 👋
+<h1 align="center">Hello! I'm Hernán | ¡Hola! Yo soy Hernán 👋</h1>
 
 - 🔭 I’m currently working on my Universitary evaluated project for a subject called "Project II" and some mini evaluated projects for other subjects.
 - 🌱 I’m currently learning HTML, CSS, TS, Angular, Raspberry Pi, SQL, etc...
